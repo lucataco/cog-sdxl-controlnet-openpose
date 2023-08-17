@@ -1,0 +1,6 @@
+__pycache__
+.cog
+control-cache
+model-cache
+pose-cache
+refiner-cache
